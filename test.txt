@@ -9,3 +9,6 @@
 수정하고 저장하기 !!-> 터미널 창에다가 git staus - git commit - git push - github확인 
 팀원 수정해서 올림 -> git pull 로 가져오기 
 git commit -am "커밋 메시지"
+
+
+잘했어요 고생했어요 
